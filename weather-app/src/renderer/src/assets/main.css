@@ -6,3 +6,7 @@
 body{
   background: #1f1f1f;
 }
+.content{
+  display: flex;
+  justify-content: space-between;
+}

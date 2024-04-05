@@ -15,8 +15,3 @@ Electrone Weather App is a simple weather application built using React.js. It a
 - **API Fetching:** Data is fetched from a weather API to provide real-time weather information.
 - **CSS:** Styling is done using CSS to ensure a visually appealing and intuitive interface.
 
-## Installation
-
-To run the Electrone Weather App locally on your machine, follow these steps:
-
-

@@ -1,9 +1,11 @@
-# Electrone Weather App
+# 🌦️ Electrone Weather App
 
-## About
+### About
 Electrone Weather App is a user-friendly weather application built using React.js. It provides real-time weather updates and forecasts for various locations worldwide, empowering users to plan their activities effectively.
 
-## Features
+---
+
+## 🌍 Features
 - **Current Weather:**  
   View the current weather conditions, including temperature, humidity, wind speed, and a detailed weather description.
 
@@ -16,7 +18,9 @@ Electrone Weather App is a user-friendly weather application built using React.j
 - **Responsive Design:**  
   Experience seamless weather browsing across various devices and screen sizes, ensuring accessibility for all users.
 
-## Technologies Used
+---
+
+## 💻 Technologies Used
 - **React.js:**  
   React.js is employed as the frontend library for building the user interface, ensuring a dynamic and interactive experience for users.
 
@@ -26,3 +30,4 @@ Electrone Weather App is a user-friendly weather application built using React.j
 - **CSS:**  
   CSS is utilized for styling the application, ensuring a visually appealing and intuitive interface for users.
 
+---

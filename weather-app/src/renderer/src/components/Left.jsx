@@ -1,7 +1,10 @@
 import React from 'react'
 
-function left() {
+function left(details) {
+
+  console.log(details)
   return (
+    
     <div>
         <div className="lft-1 bg-white">
           <p>Now</p>
@@ -9,7 +12,7 @@ function left() {
           <p>Cloudy</p>
           <hr />
           <p>Wednsday-04-2024</p>
-          <p>Location Mill</p>
+          <p>{}</p>
         </div>
         <h3>Last 5 days</h3>
         <div className="lft-2 bg-white">
